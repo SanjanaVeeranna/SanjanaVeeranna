@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sanjana Veeranna
+ Hi 👋, I’m Sanjana Veeranna
+         A passionate Frontend developer from India
 - 🌱 I’m currently learning Frontend Development and MySql
 - 📫 You can reach me at sanjanaveeranna.14@gmail.com
 
